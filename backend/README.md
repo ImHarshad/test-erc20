@@ -13,4 +13,4 @@ npx hardhat run scripts/deploy.ts
 ```
 
 ## GitHub Token for deployment
-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
+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
