@@ -11,3 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
+
+## GitHub Token for deployment
+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
