@@ -1,10 +1,3 @@
-node_modules
-.env
-coverage
-coverage.json
-typechain
-typechain-types
-
 # Hardhat files
 cache
 artifacts
@@ -16,11 +9,10 @@ coverage
 coverage.json
 typechain
 typechain-types
-
-# Hardhat files
-cache
-artifacts
 
 # System files
 .DS_Store
-*.code-workspace
+
+#Temporary files/folders
+contracts-old
+test-old
